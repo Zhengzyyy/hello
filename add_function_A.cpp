@@ -1,7 +1,9 @@
 #include <iostream>
 int main()
 {
-	std::cout << "this is main function" << std::endl;
+  int a = 100;
+  printf("%d", a);
+  std::cout << "this is main function" << std::endl;
 	return 0;
 }
 	
